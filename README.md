@@ -19,8 +19,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git e Github
 - Figma
 
-## 💻 Projeto
+## 💻 Projetos
 
-DevLinks é um agregador de links para ser utilizado como cartão de visitas online.
+Futuros projetos em desenvolvimento
 
 ---
