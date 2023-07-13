@@ -12,12 +12,11 @@ Tudo sobre mim e minhas skills
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
+- Java
+- SQL
 - HTML e CSS
 - JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projetos
 
