@@ -22,3 +22,5 @@ Tudo sobre mim e minhas skills
 Futuros projetos em desenvolvimento
 
 ---
+
+Link para meu cartão de visitas https://filipe1607.github.io/Potfolio/
